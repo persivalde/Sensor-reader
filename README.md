@@ -1,5 +1,3 @@
-# Sensor-reader
-Arduino code to read gas, temperature, and an additional sensor
 // Pin definitions for the sensors
 #define GAS_SENSOR    A0
 #define TEMP_SENSOR   A1
